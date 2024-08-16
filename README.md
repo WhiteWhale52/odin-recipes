@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to make recipe website. It will have a main index page that is written in index.html. It will have multiple pages that lead to recipes using html files in a folder called pages.
